@@ -90,14 +90,14 @@
         echo <<<HTM
 <form method="POST">
     <input type="hidden" name="sender" value="Email Sender API <no-reply@bahno.net>" />
-    <input type="hidden" name="token" value="5It8VdndMKiG8QfBsYCQBw" />
+    <input type="hidden" name="token" value="MEGASECRETANDLONGTOKENMEGASECRETANDLONGTOKEN" />
     <input type="hidden" name="emailsubject" value="Usage instructions" />
     <input type="hidden" name="emailbody" value="Request info:
         URL: https://m.bahno.net
         Method: POST
 
         Mandatory params:
-        'token' -> '5It8VdndMKiG8QfBsYCQBw'
+        'token' -> 'MEGASECRETANDLONGTOKENMEGASECRETANDLONGTOKEN'
         'emailsubject' -> 'Your subject'
         'emailbody' -> 'Actual email body'
         'addressee' -> 'recipient@email.com'
